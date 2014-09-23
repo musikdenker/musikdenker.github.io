@@ -1,7 +1,5 @@
-
-=====================
 __G4__ :octocat: Framework
-###### <sub>**Organization** / ⚠️ Playground / </sub>
+###### <sub>**Organization** / ⚠️ Playground / musikdenker  </sub>
 
 
 ###musikdenker
@@ -10,11 +8,11 @@ __G4__ :octocat: Framework
 THIS IS AN PLAYGROUND RESPOSITORY.
 THIS IS ONLY A DEVELOPMENT ENVIRONEMENT. 
 
-[GitHub Organisation](http://musikdenker.github.io/)
+[GitHub Organisation: musikdenker](http://musikdenker.github.io/)
 
 =====
 <sub>
-&copy; 2014, [Owner][gitHub]  
+&copy; 2014, [Owner: Manuel Gotzen][gitHub]  
 Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence. Company logos in icons are copyright of their respective owners.  
 </sub>
 
