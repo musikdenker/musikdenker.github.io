@@ -3,7 +3,7 @@ __G4__ :octocat: Framework
 ## musikdenker
   
 THIS IS AN PLAYGROUND RESPOSITORY. 
-THIS IS ONLY A DEVELOPMENT ENVIRONEMENT. ⚠️ :octicon-alert:
+THIS IS ONLY A DEVELOPMENT ENVIRONEMENT. ⚠️ 
  
 ======
 ####__<sub>Playground</sub>__
