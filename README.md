@@ -15,14 +15,17 @@ THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.
   
 =====
  
+[source,perl] 
 <sub>
 // Comment 
-.Optional Title
-(C) &copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]----  
+.Optional Title 
+----
+`MTMarkdownOptions` 
+&copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]----  
 Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence.  
 Company logos in/and icons are __copyright of their respective owners__. Use Gravatar for contact [Manuel Gotzen](http://bit.ly/en-G4UI)  
 </sub>
-
+----
 
 
 [](![CC][CC]  ![CC][BY]  ![CC][NC]  [](![CC][NC-EU]))
