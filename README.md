@@ -9,7 +9,7 @@ THIS IS AN PLAYGROUND RESPOSITORY.
 THIS IS ONLY A DEVELOPMENT ENVIRONEMENT. 
   
 [GitHub Organisation: musikdenker](http://musikdenker.github.io/?tab=repositories)  
-[GitHub Owner: Manuel Gotzen](http://manuelgotzen.github.io/?tab=repositories)
+[GitHub Owner: Manuel Gotzen](http://github.com/ManuelGotzen/?tab=repositories)
 
   
 =====
