@@ -14,8 +14,9 @@ THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.
 [GitHub Owner: Manuel Gotzen](http://github.com/ManuelGotzen/?tab=repositories)
   
 =====
+ 
 <sub>
-COPYRIGHT &copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]  
+&copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]  
 Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence.  
 Company logos in/and icons are __copyright of their respective owners__. Use Gravatar for contact [Manuel Gotzen](http://bit.ly/en-G4UI)  
 </sub>
