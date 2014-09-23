@@ -6,9 +6,9 @@ THIS IS AN PLAYGROUND RESPOSITORY.
 THIS IS ONLY A DEVELOPMENT ENVIRONEMENT. ⚠️  
   
 ======
-####~~<sub>Playground</sub>~~
+####__<sub>Playground</sub>__
   
-[GitHub Organisation: musikdenker](http://github.com/musikdenker)  
+~~[GitHub Organisation: musikdenker](http://github.com/musikdenker)~~  
 [GitHub Owner: Manuel Gotzen](http://github.com/ManuelGotzen/?tab=repositories)
   
   
