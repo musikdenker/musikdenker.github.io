@@ -5,12 +5,12 @@ __G4__ :octocat: Framework
 
 
 ###musikdenker
-_____Playground_____
+######Playground
 
 THIS IS AN PLAYGROUND RESPOSITORY.
 THIS IS ONLY A DEVELOPMENT ENVIRONEMENT. 
 
-[GitHub Organisation](http://musikdenker.github.io/
+[GitHub Organisation](http://musikdenker.github.io/)
 
 =====
 <sub>
