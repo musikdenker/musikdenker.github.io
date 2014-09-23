@@ -1,16 +1,15 @@
 __G4__ :octocat: Framework
-<sub>
-###### **Organization** / ⚠️ Playground / musikdenker  
-======</sub> 
+###### <sub>**Organization** / ⚠️ Playground / musikdenker  </sub>
+======
    
 ###musikdenker
 ######Playground
-
+  
 THIS IS AN PLAYGROUND RESPOSITORY.
 THIS IS ONLY A DEVELOPMENT ENVIRONEMENT. 
-
+  
 [GitHub Organisation: musikdenker](http://musikdenker.github.io/)
-
+  
 =====
 <sub>
 &copy; 2014, [Owner: Manuel Gotzen][gitHub]  
