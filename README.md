@@ -2,10 +2,11 @@ __G4__ :octocat: Framework
 ###### <sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / Playground 👾  </sub>
 ##     musikdenker
   
-   <span class=right>⚠️</span>
+<span style="display:block">   <span class=left>⚠️</span>
 THIS IS AN PLAYGROUND RESPOSITORY.  
 THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.   
   
+</span>
 ======
 ####__<sub>Further Information 🔗</sub>__  
  
