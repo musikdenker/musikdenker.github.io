@@ -1,9 +1,9 @@
 __G4__ :octocat: Framework
-######<sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / Playground 👾  </sub>  
-###    musikdenker 
-
+######<sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / Playground 👾  </sub>
+###    musikdenker
   
-THIS IS AN PLAYGROUND RESPOSITORY.     [](<span class='hide'>⚠️</span>)  
+    [](<span class='hide'>⚠️</span>)
+THIS IS AN PLAYGROUND RESPOSITORY.  
 THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.  
 
 
