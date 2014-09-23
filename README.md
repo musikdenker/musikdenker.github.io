@@ -15,10 +15,10 @@ THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.
   
 =====
  
-[source,perl] 
 <sub>
 // Comment 
-.Optional Title 
+.Optional Title
+[source,code]
 ----
 
 &copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]----  
