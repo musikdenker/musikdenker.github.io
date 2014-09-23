@@ -16,9 +16,9 @@ THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.
 =====
  
 <sub>
-\(C) &copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]  
-Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence. This software is under the terms of the GNU General Public License (GPL).  
-Company logos in/and icons are __copyright of their respective owners__. Use Gravatar for contact [Manuel Gotzen](http://bit.ly/en-G4UI)  
+&copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]  
+Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence. This software is under the terms of the GNU General Public License (GPL). 
+Company logos in/and icons are __copyright of their respective owners__. Use Gravatar for contact [Manuel Gotzen](http://bit.ly/en-G4UI) 
 </sub>
 
 
