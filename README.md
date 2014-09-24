@@ -2,10 +2,6 @@ __G4__ :octocat: Framework
 ######<sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / Playground 👾  </sub>
 ##    musikdenker
  
-  
-|  | ⚠️ |
-|--------------- | ---------------|
-
   [](⚠️ `MTMarkdownOptions` )  
 THIS IS AN PLAYGROUND RESPOSITORY.  
 THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.  
@@ -26,10 +22,7 @@ Company logos in/and icons are __copyright of their respective owners__. Use Gra
 </sub>
 
 
-|------------ | -----------|  
-
-
-
+  
 [](![CC][CC]  ![CC][BY]  ![CC][NC]  [](![CC][NC-EU]))
 
 [CC]: http://bit.ly/CC-ico-svg "CC"
