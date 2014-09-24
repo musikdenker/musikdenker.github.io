@@ -20,7 +20,9 @@ Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.
 Company logos in/and icons are __copyright of their respective owners__. Use __Gravatar__ for contact [Manuel Gotzen](http://bit.ly/en-G4UI)  
 [](This software is under the terms of the GNU General Public License (GPL).) 
 </sub>
-  
+
+![gee-ministry](http://0.gravatar.com/userimage/71444084/94f0499a845c2ec0b4afd07833f67b34?s=20)  
+![tape](http://1.gravatar.com/userimage/71444084/a9e5f9101efa2071f3de85799ff002e4?s=20)  
 ![gee](http://0.gravatar.com/userimage/71444084/93f4372052513ed9b9796f39acce68f8?s=20)  
 ![musikdenker](http://0.gravatar.com/userimage/71444084/ae1c0620742ab122c99b24b15d661dab?=16)  
 ![G4](http://2.gravatar.com/avatar/9fabd574dab849b9e9401bb2a79d31e8?s=32)  
