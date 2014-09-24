@@ -1,5 +1,5 @@
-__G4__ :octocat: Framework
-######<sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / _Playground_ 👾  </sub>
+__G4__ :octocat: _Framework_
+######<sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / Playground 👾  </sub>
 ##    musikdenker
 
   [](⚠️ `MTMarkdownOptions` )  
