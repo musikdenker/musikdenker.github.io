@@ -34,4 +34,4 @@ Company logos in/and icons are __copyright of their respective owners__. Use __[
 
 [gitHub]: http://musikdenker.github.io  "Playground"  
 
-[156]: (![Gravatar](http://www.gravatar.com/avatar/00000000000000000000000000000000?s=16))  "png-gravatar"
+[16]: (![Gravatar](http://www.gravatar.com/avatar/00000000000000000000000000000000?s=16))  "png-gravatar"
