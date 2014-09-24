@@ -13,9 +13,8 @@ THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.
 [GitHub Owner: Manuel Gotzen](http://github.com/ManuelGotzen/?tab=repositories)
   
 <sub>
-##### __<sub>Licence [](<sub>®</sub>)</sub>__
-
-_Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies._</sub>  
+###### __<sub>Licence [](<sub>®</sub>)</sub>__
+<sub>_Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies._</sub>  
  
 =====
  
