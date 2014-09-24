@@ -1,11 +1,10 @@
 __G4__ :octocat: Framework
 ######<sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / Playground 👾  </sub>
 ##    musikdenker
-
  
-| ##  | ⚠️ |
-|--------------- | ---------------| 
-======
+  
+[|  | ⚠️ |]
+[|--------------- | ---------------|]
 
   [](⚠️ `MTMarkdownOptions` )  
 THIS IS AN PLAYGROUND RESPOSITORY.  
