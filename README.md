@@ -1,4 +1,4 @@
-__G4__ :octocat: _Framework_
+__G4__ :octocat: <sub>Framework</sub>
 ######<sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / Playground 👾  </sub>
 ##    musikdenker
 
