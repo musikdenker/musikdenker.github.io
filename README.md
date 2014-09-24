@@ -13,7 +13,7 @@ THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.
 [GitHub Owner: Manuel Gotzen](http://github.com/ManuelGotzen/?tab=repositories)
   
 
-=====
+=====  
  
 <sub>
 &copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]  
