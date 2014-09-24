@@ -21,8 +21,10 @@ Company logos in/and icons are __copyright of their respective owners__. Use __G
 [](This software is under the terms of the GNU General Public License (GPL).) 
 </sub>
 
-![Gravatar](http://2.gravatar.com/avatar/9fabd574dab849b9e9401bb2a79d31e8?s=20)
-  
+![G4](http://2.gravatar.com/avatar/9fabd574dab849b9e9401bb2a79d31e8?s=32)
+![Gravatar](http://www.gravatar.com/avatar/00000000000000000000000000000000?s=32)  
+
+
 [](![CC][CC]  ![CC][BY]  ![CC][NC]  [](![CC][NC-EU]))
 
 [CC]: http://bit.ly/CC-ico-svg "CC"
