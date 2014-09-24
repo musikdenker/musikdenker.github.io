@@ -28,9 +28,12 @@ Company logos in/and icons are __copyright of their respective owners__. Use __G
 ![Gravatar](http://www.gravatar.com/avatar/00000000000000000000000000000000?s=16)  
 ![Apple](http://2.gravatar.com/userimage/71444084/7fbcec9cb45281f8ebb48266428dfe59?s=20)  
 ![User](http://2.gravatar.com/userimage/71444084/ee94bfd20615c0c77b4ac32935d160e2?s=20)  
-
 ![G4-Unit](http://1.gravatar.com/userimage/71444084/8c14c7fb653fc75c3306b298effe2a2c?s=20)  
+
+
 ![gitHub-inv](http://1.gravatar.com/userimage/71444084/dd5d15ce5483f39550c7f679d7c2556e?s=20)  
+
+![Info](http://2.gravatar.com/userimage/71444084/3117fa9b13b048cf353a20826a561630c?s=20)  
 
 
 
