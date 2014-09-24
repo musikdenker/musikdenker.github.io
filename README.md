@@ -21,6 +21,7 @@ Company logos in/and icons are __copyright of their respective owners__. Use __G
 [](This software is under the terms of the GNU General Public License (GPL).) 
 </sub>
   
+![gee](http://0.gravatar.com/userimage/71444084/93f4372052513ed9b9796f39acce68f8?s=20)  
 ![musikdenker](http://0.gravatar.com/userimage/71444084/ae1c0620742ab122c99b24b15d661dab?=16)  
 ![G4](http://2.gravatar.com/avatar/9fabd574dab849b9e9401bb2a79d31e8?s=32)  
 ![hue-app](http://2.gravatar.com/userimage/71444084/930b9339015fa13422f0ca1901d5adf7?s=20)  
