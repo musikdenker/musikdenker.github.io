@@ -7,14 +7,15 @@ THIS IS AN PLAYGROUND RESPOSITORY.
 THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.  
 
 ***
+====
 #### __<sub>Further Information <sub>🔗</sub></sub>__
  
 ~~[GitHub Organisation: musikdenker](http://github.com/musikdenker)~~  
 [GitHub Owner: Manuel Gotzen](http://github.com/ManuelGotzen/?tab=repositories)
   
 
-***  
- 
+***
+==== 
 <sub>
 &copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]  
 Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence.   
