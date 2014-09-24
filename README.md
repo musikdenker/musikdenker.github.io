@@ -17,7 +17,7 @@ THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.
 <sub>
 &copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]  
 Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence.   
-Company logos in/and icons are __copyright of their respective owners__. Use __![png-gravatar][16]__ for contact [Manuel Gotzen](http://bit.ly/en-G4UI)  
+Company logos in/and icons are __copyright of their respective owners__. Use __![png-gravatar][]__ for contact [Manuel Gotzen](http://bit.ly/en-G4UI)  
 [](This software is under the terms of the GNU General Public License (GPL).) 
 </sub>
 
@@ -34,4 +34,4 @@ Company logos in/and icons are __copyright of their respective owners__. Use __!
 
 [gitHub]: http://musikdenker.github.io  "Playground"  
 
-[16]: http://www.gravatar.com/avatar/00000000000000000000000000000000?s=16  "png-gravatar"
+[]: http://www.gravatar.com/avatar/00000000000000000000000000000000?s=16  "png-gravatar"
