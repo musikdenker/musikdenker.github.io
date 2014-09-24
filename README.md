@@ -6,7 +6,6 @@ __G4__ :octocat: Framework
 THIS IS AN PLAYGROUND RESPOSITORY.  
 THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.  
 
-***
 ====
 #### __<sub>Further Information <sub>🔗</sub></sub>__
  
@@ -14,7 +13,6 @@ THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.
 [GitHub Owner: Manuel Gotzen](http://github.com/ManuelGotzen/?tab=repositories)
   
 
-***
 ==== 
 <sub>
 &copy; 2014, [Owner | Contribution: __Manuel Gotzen__][gitHub]  
