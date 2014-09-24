@@ -3,8 +3,8 @@ __G4__ :octocat: Framework
 ##    musikdenker
  
   
-[|  | ⚠️ |]
-[|--------------- | ---------------|]
+||  | ⚠️ ||
+||--------------- | ---------------||
 
   [](⚠️ `MTMarkdownOptions` )  
 THIS IS AN PLAYGROUND RESPOSITORY.  
