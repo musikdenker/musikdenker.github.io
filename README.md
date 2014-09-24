@@ -1,4 +1,4 @@
-__G4__ :octocat: +Framework+
+__G4__ :octocat: ++Framework++
 ######<sub>**~~[Organization](http://github.com/musikdenker)~~** / Respository / Playground 👾  </sub>
 ##    musikdenker
 
@@ -23,14 +23,12 @@ Company logos in/and icons are __copyright of their respective owners__. Use Gra
 
 
 
-.CSV data, 15% each column
-[format="csv",width="60%",cols="4"]
-[frame="topbot",grid="none"]
-|======
-1,2,3,4
-a,b,c,d
-A,B,C,D
-|======
+
+|======|  
+1,2,3,4 
+a,b,c,d 
+A,B,C,D 
+|======|  
 
 
 [](![CC][CC]  ![CC][BY]  ![CC][NC]  [](![CC][NC-EU]))
