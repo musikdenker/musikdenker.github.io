@@ -7,6 +7,7 @@ THIS IS AN PLAYGROUND RESPOSITORY.
 THIS IS ONLY FOR DEVELOPMENT ENVIRONEMENT.  
 
 [G4 - Lib](https://manuelgotzen.github.io/G4-libs/)
+[G4 - Icons](https://manuelgotzen.github.io/G4-icons/
 
 
 ====
